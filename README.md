@@ -20,9 +20,9 @@ In the `R` folder, two scripts can be found.
 
 In the `Data` folder, two subfolders can be found.
 
-  * `R_Data` contain cleaned data frames for average annual attendance by team, a history of designated players in the MLS, final league tables, and salary information for all MLS players [all data covers the 2007 to 2017 seasons]. Because three of these four tables were formed by web scrapes, it is crucial that static files were saved as intermediates!
+  * `R_Data` contain cleaned data frames for average annual attendance by team, a history of designated players in the MLS, final league tables, and salary information for all MLS players [all data covers the 2007 to 2017 seasons]. Because three of these four tables were formed by web scrapes, it is crucial for the data availability goal that static files were saved as intermediates!
   
-  * `Salary_Files` contain `.csv` files for MLS salaries between 2007 and 2017. These were used to organize the salary information for this project.
+  * `Salary_Files` contain .csv files for MLS salaries between 2007 and 2017. These were used to organize the salary information for this project.
 
 
 
